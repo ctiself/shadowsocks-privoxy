@@ -1,5 +1,6 @@
 FROM alpine:latest
-MAINTAINER bluebu <bluebuwang@gmail.com>
+#ORIGINAL MAINTAINER bluebu <bluebuwang@gmail.com>
+MAINTAINER ctiself <ctiself@gmail.com>
 
 #------------------------------------------------------------------------------
 # Environment variables:
